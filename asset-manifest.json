@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.54d83e3c.chunk.css",
-    "main.js": "/static/js/main.3a49955f.chunk.js",
-    "main.js.map": "/static/js/main.3a49955f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d22265a4.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d22265a4.js.map",
-    "static/js/2.dc2c6dd7.chunk.js": "/static/js/2.dc2c6dd7.chunk.js",
-    "static/js/2.dc2c6dd7.chunk.js.map": "/static/js/2.dc2c6dd7.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.41291973252d8cb9b2fa67df1e28f483.js": "/precache-manifest.41291973252d8cb9b2fa67df1e28f483.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.54d83e3c.chunk.css.map": "/static/css/main.54d83e3c.chunk.css.map",
-    "static/js/2.dc2c6dd7.chunk.js.LICENSE.txt": "/static/js/2.dc2c6dd7.chunk.js.LICENSE.txt"
+    "main.css": "/abhishekgiram.github.io/clicker/static/css/main.54d83e3c.chunk.css",
+    "main.js": "/abhishekgiram.github.io/clicker/static/js/main.0f10d2cb.chunk.js",
+    "main.js.map": "/abhishekgiram.github.io/clicker/static/js/main.0f10d2cb.chunk.js.map",
+    "runtime-main.js": "/abhishekgiram.github.io/clicker/static/js/runtime-main.e8445070.js",
+    "runtime-main.js.map": "/abhishekgiram.github.io/clicker/static/js/runtime-main.e8445070.js.map",
+    "static/js/2.dc2c6dd7.chunk.js": "/abhishekgiram.github.io/clicker/static/js/2.dc2c6dd7.chunk.js",
+    "static/js/2.dc2c6dd7.chunk.js.map": "/abhishekgiram.github.io/clicker/static/js/2.dc2c6dd7.chunk.js.map",
+    "index.html": "/abhishekgiram.github.io/clicker/index.html",
+    "precache-manifest.1f2ac33ab16cc1624115bd77fc01b573.js": "/abhishekgiram.github.io/clicker/precache-manifest.1f2ac33ab16cc1624115bd77fc01b573.js",
+    "service-worker.js": "/abhishekgiram.github.io/clicker/service-worker.js",
+    "static/css/main.54d83e3c.chunk.css.map": "/abhishekgiram.github.io/clicker/static/css/main.54d83e3c.chunk.css.map",
+    "static/js/2.dc2c6dd7.chunk.js.LICENSE.txt": "/abhishekgiram.github.io/clicker/static/js/2.dc2c6dd7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d22265a4.js",
+    "static/js/runtime-main.e8445070.js",
     "static/js/2.dc2c6dd7.chunk.js",
     "static/css/main.54d83e3c.chunk.css",
-    "static/js/main.3a49955f.chunk.js"
+    "static/js/main.0f10d2cb.chunk.js"
   ]
 }
